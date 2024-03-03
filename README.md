@@ -9,7 +9,7 @@
 <div>
 
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Vollkorn&size=30&duration=4000&pause=800&color=2597A9&center=true&vCenter=true&random=false&width=435&lines=Hello!!+My+name+is+Manuela.;I'm+from+Araquari%2C+SC;I'm+16+years+old.;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2597A9&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Manuela.;I'm+from+Araquari%2C+SC;I'm+16+years+old.;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training.)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,6 +64,8 @@
 <br clear="both">
 
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da6856&height=120&section=footer"/>
+
+##
 
 
 ![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake.gif)
