@@ -66,7 +66,7 @@
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da6856&height=120&section=footer"/>
 
 
-![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake.gif)
 
 
 
