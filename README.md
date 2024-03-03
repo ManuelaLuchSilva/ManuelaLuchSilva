@@ -68,7 +68,7 @@
 ##
 
 
-![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/ManuelaLuchSilva/ManuelaLuchSilva/output/snake.svg" alt="Snake animation" />
 
 
 
