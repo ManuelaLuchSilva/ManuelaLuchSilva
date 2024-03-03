@@ -63,8 +63,10 @@
 
 <br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManuelaLuchSilva/ManuelaLuchSilva/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManuelaLuchSilva/ManuelaLuchSilva/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ManuelaLuchSilva/ManuelaLuchSilva/output/github-contribution-grid-snake.svg">
-</picture>
+<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da6856&height=120&section=footer"/>
+
+
+![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+
