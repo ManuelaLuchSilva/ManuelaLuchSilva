@@ -9,7 +9,7 @@
 <div>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2597A9&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Manuela.;I'm+from+Araquari%2C+SC;I'm+16+years+old.;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2597A9&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Manuela.;I'm+from+Araquari%2C+SC;I'm+17+years+old.;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training.)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +24,7 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelaLuchSilva&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelaLuchSilva&bg_color=2597A9&color=141424&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva)
 
 ##
 
