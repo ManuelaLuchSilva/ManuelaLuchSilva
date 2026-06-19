@@ -9,20 +9,18 @@
 <div>
 
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2597A9&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Manuela.;I'm+from+Araquari%2C+SC;I'm+17+years+old.;I'm+studying+at+IFC-Araquari;I'm+a+Web+Developer+and+Programmer+in+training.)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2597A9&size=35&center=true&vCenter=true&width=1000&lines=Hello!!+My+name+is+Manuela.;I'm+from+Araquari%2C+SC;I'm+18+years+old.;I'm+a+Web+Developer+and+Programmer+in+training.)](https://git.io/typing-svg)
 
 </div>
 
 ##
+<br clear="both">
 
 <div align="center">
-
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ManuelaLuchSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManuelaLuchSilva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=codeSTACKr&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ManuelaLuchSilva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
+<br clear="both">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ManuelaLuchSilva&bg_color=141424&color=2597A9&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva)
 
@@ -53,14 +51,11 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
-
 ##
-
-<br clear="both">
-
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ManuelaLuchSilva/count.svg?"  />
+  
+![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
 ###
@@ -70,11 +65,3 @@
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=da6856&height=120&section=footer"/>
 
 ##
-
-
-
-
-![snake gif](https://github.com/ManuelaLuchSilva/ManuelaLuchSilva/blob/output/github-contribution-grid-snake-dark.svg)
-
-
-
